@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.create-user-box {
+  display: flex;
+  flex-flow: column;
+  margin: 10px;
+}
+
+.login-box {
+  display: flex;
+  flex-flow: column;
+  margin: 10px;
+}
+
+.message-box {
+  margin: 10px;
+}
